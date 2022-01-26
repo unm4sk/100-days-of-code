@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [unm4sk]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 25, Tuesday, 2022].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Learned a lot new about decorators. Still pretty confusing, but I am getting better at understanding how this concept works. [files to be uploaded]
 
 ### R1D2
+Finished learning decorators. Got a bit closer to fully understanding a concept!😎 The power of this function is incredible! Did an excercise to implement what I've learned so far about decorators.
+Finished Error Handling part of a course. Was pretty easy because I had implemented it before. However, some things I did *not* know, so it was pretty useful overall. [files to be uploaded]

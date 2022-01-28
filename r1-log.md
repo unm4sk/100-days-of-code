@@ -22,3 +22,10 @@ It is in early development, so I am not sharring a link to my project. If tomorr
 Overall, I am *more* than just satisfied!
 
 Time track: ![error](./time-track/3.png "3nd")
+
+### R1D3
+Oooh. With no doubt it was the most time I have coded in a day. My thoughts? Don't feel exhausted, not at all! Finished my [defme](https://github.com/unm4sk/defme) project. I have not only implemented libraries I wanted to, but also made my code more logical & clear. Also, I did an *Excel* version of my script. It is way better in terms of perfomance. 
+I am very proud of myself, to be honest :) 
+I think tomorrow I will focus on a course becaue of opportunities it can provide to me.
+
+Time track: ![error](./time-track/4.png "4th")

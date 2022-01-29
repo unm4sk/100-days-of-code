@@ -23,9 +23,22 @@ Overall, I am *more* than just satisfied!
 
 Time track: ![error](./time-track/3.png "3nd")
 
-### R1D3
+### R1D4
 Oooh. With no doubt it was the most time I have coded in a day. My thoughts? Don't feel exhausted, not at all! Finished my [defme](https://github.com/unm4sk/defme) project. I have not only implemented libraries I wanted to, but also made my code more logical & clear. Also, I did an *Excel* version of my script. It is way better in terms of perfomance. 
 I am very proud of myself, to be honest :) 
 I think tomorrow I will focus on a course becaue of opportunities it can provide to me.
 
 Time track: ![error](./time-track/4.png "4th")
+
+### R1D5
+Getting used to coding this many hours, haha. No, seriously, feel like it's really possible.
+Of course, there were moments today when I felt little unconcentrated and sleepy. So far, I finished the generators section and in the middle of *Modules in Python* section. 
+Completed a cool game excercise using built-in sys module. Now it's very cool to execute a game in a *USER mode*, adding attributes when running a program!
+Looking for tomorrow's journey! (Probably will code less time cuz of school h/w)
+
+Also, completed 2 Python Exams. Got good scores, remembered some stuff. Feel very good about that! 
+
+Time track: ![error](./time-track/5.png)
+Exams results: 
+![error](./time-track/python_quiz1.png)
+![error](./time-track/python_quiz2.png)

@@ -7,9 +7,9 @@
 * If you decided to join.
 
 ## Who am I?
-Hi there! My name is Daniil and I am *very passionate* about coding. I like its concepts and, more significantly, ways programming can be implemented to make real-world changes. Because this repo is not only about me & stuff that I like/dislike, etc., I will link a [README file] <- (*click here* if you wanna learn about me a little!)
+Hi there! My name is Daniil and I am *very passionate* about coding. I like its concepts and, more significantly, ways programming can be implemented to make real-world changes. Because this repo is not only about me & stuff that I like/dislike, etc., I will link a [README file](https://github.com/unm4sk/unm4sk/blob/main/README.md "My README file") <- (*click here* if you wanna learn about me a little!)
 
-My twitter: [click here!](https://twitter.com/overc0mer1) You can also track my progress here!
+My twitter: [click here!](https://twitter.com/real_unm4sk) You can also track my progress there!
 
 ## Why I decided to join this challenge?
 Being a student is *not the easiest thing* (at least for me), and it is hard to concentrate on something with bunch of h/w, social activities, hobbies, social media, etc that keep falling on a student's head. To overcome my procrastination and make significant improvements in my programming journey, I decided to join this challenge!

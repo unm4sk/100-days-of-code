@@ -42,3 +42,13 @@ Time track: ![error](./time-track/5.png)
 Exams results: 
 ![error](./time-track/python_quiz1.png)
 ![error](./time-track/python_quiz2.png)
+
+### R1D6
+Even though the beggining of today wasn't that great (a great bunch of school assignments, got very exhaused), I spent some great time creating & refreshing my knowledge about OOP. It was hard for me to understand *why* I may want to use it in my projects, but I think I am getting the idea behind this concept.
+
+I finished the Python modules and debugging section. I actually never really used debugging. Now I see its power.
+
+Apart from learning the course, I built 2 projects, implementing OOP (one from youtube, the second one I did all by myself).
+I'll try my best to implement a *database* to my project and will use *Rich* again to create beautiful desing for it.
+
+Time track: ![error](./time-track/6.png)

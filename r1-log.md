@@ -52,3 +52,23 @@ Apart from learning the course, I built 2 projects, implementing OOP (one from y
 I'll try my best to implement a *database* to my project and will use *Rich* again to create beautiful desing for it.
 
 Time track: ![error](./time-track/6.png)
+
+### R1D7
+What day it was... I coded for **8 hours**! But even though time I spent coding was enormous (still attended school), I didn't feel exhausted, tired or unmotivated. In fact, I felt exactly opposite!
+
+All my time I spent coding a project using OOP. I think I'll upload it on GitHub soon. 
+
+Shortly, today I:
+* almost finished my project
+* learned how to use tinydb and rich for creating tables
+* fixed lots and lots of bugs
+* implemented new features (some of them I'll try to implement tomorrow)
+
+Talking about tomorrow... 
+TODO:
+1. Finish My Project
+2. Watch File IO
+Although programming is really driving me crazy (in a good way -- I am super motivated rn and don't fear dificculties), I think I should start do my h/ws better and *start finally preparing for SAT!*
+
+Time track: ![error](./time-track/7.png)
+

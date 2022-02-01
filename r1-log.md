@@ -72,3 +72,15 @@ Although programming is really driving me crazy (in a good way -- I am super mot
 
 Time track: ![error](./time-track/7.png)
 
+### R1D8
+I wouldn't call today very exciting day simply because I was fixing, fixing, and fixing bugs. However, I am really happy I finished myproject! I added features, fixed sorting system, found many bugs and created lots of new ones by myself (fixed em too!). 
+
+I only completed first item of my TODO list (see **R1D7**). Tomorrow I have my school in online, and I did my project, so, hopefully, I'll be able to learn some python from the course. I can't wait for some very cool projects that are on this course. 
+
+Also, I'd like to start working on flutter but I think I need to finish python first. *Definetely!*
+
+To sum up:
+1. I didn't feel *that* excited throughout the day. However ***I finished my project!!!***
+2. Was coding for a long time!
+
+Time track: ![error](./time-track/8.png)

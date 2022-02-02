@@ -84,3 +84,15 @@ To sum up:
 2. Was coding for a long time!
 
 Time track: ![error](./time-track/8.png)
+
+### R1D9
+I would lie to myself if I call today's experience exciting. No, it wasn't. I think the main reason my *'outside-of-a-course'* experience. 
+I'd describe today as boring, honestly. However, I completed 3 modules of the course:
+
+1. File IO
+2. Regular expressions (btw, I found them really cool -- can and will implement in my future Python projects)
+3. Testing In Python (ooh, it was *waay* too boring, I dunno why). I can understand why it's important, but now I don't see it usefulness to me.
+
+Despite my entire boringngess, I am looking forward projects suggested in a course. I think it'll be ***very and very useful and cool***.
+
+Time track: ![error](./time-track/9.png)

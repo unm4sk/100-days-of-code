@@ -96,3 +96,10 @@ I'd describe today as boring, honestly. However, I completed 3 modules of the co
 Despite my entire boringngess, I am looking forward projects suggested in a course. I think it'll be ***very and very useful and cool***.
 
 Time track: ![error](./time-track/9.png)
+
+### R1D10
+Well, today's amount of coding wasn't that big... However! I ***actually*** liked studying the course today. Learned about the importance of big projects, about stuff I should consider when creating a resume & applying to a job. 
+
+Apart from it, I did a bit of scripting (to be more precise, **image processing**). And I liked it! I solved an exercise *by myself*, but later did some changes so code would look nicer and cleaner. Looking forward to tomorrow!
+
+Time track: ![error](./time-track/10.png)

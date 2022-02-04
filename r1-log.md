@@ -103,3 +103,13 @@ Well, today's amount of coding wasn't that big... However! I ***actually*** like
 Apart from it, I did a bit of scripting (to be more precise, **image processing**). And I liked it! I solved an exercise *by myself*, but later did some changes so code would look nicer and cleaner. Looking forward to tomorrow!
 
 Time track: ![error](./time-track/10.png)
+
+### R1D11
+I have mixed feelings about today... On one hand, I didn't do very good on PDF section -- *didn't* like a library (`PyPDF2`) at all. ***But*** It's worth to mention, that I was *surprised* how we can merge PDFs so easily and add watermarks. I guess if I will be working in the future with PDFs, I will more likely either to choose other lib or get over myself!
+
+On the other hand, I did pretty good with email section, even wrote very short program, implementing file I/O and `sys.argv` module. 
+
+Also, school took a lot of my time today :disappointed:. Except of that, it was pretty good day!
+
+Time track: ![error](./time-track/11_1.png)
+            ![error](./time-track/11_2.png)

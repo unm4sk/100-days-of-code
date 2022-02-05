@@ -113,3 +113,12 @@ Also, school took a lot of my time today :disappointed:. Except of that, it was 
 
 Time track: ![error](./time-track/11_1.png)
             ![error](./time-track/11_2.png)
+
+
+### R1D12
+Although I didn't spend too much time on programming today, I feel great because I did a very cool exercise on building a script that securely searches if a password was ever leaked.
+It uses an API of `https://haveibeenpwned.com/API/v2` in the way when your password never get sent to this site! If your local machine is secure, then any password you send will be protected!
+
+Tomorrow I'll create a Twitter BOT and will learn how to send SMS using Python. On weekdays I'll try my best to learn Scraping Data & Web Development using Python. I am *familiar* with Scraping data, but Web Development is a totally new thing and I'm ***super excited*** to create my own portfolio!!!
+
+Time track: ![error](./time-track/12.png)

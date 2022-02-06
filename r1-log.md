@@ -122,3 +122,13 @@ It uses an API of `https://haveibeenpwned.com/API/v2` in the way when your passw
 Tomorrow I'll create a Twitter BOT and will learn how to send SMS using Python. On weekdays I'll try my best to learn Scraping Data & Web Development using Python. I am *familiar* with Scraping data, but Web Development is a totally new thing and I'm ***super excited*** to create my own portfolio!!!
 
 Time track: ![error](./time-track/12.png)
+
+### R1D13
+I really wanted to create a Twitter bot today... However, due to technical issues, it never happened.
+Anyways, I refershed my knowledge about Twilio lib (I think I can use it in *future* projects).
+
+Despite of headaches and no Twitter bot (*hopefully*, I'll be able to create it tomorrow), I am curretnly at "Scraping Data" section, which is pretty useful and interesting.
+
+Tomorrow is school, so I will probably spend less time on coding :cry:
+
+Time track: ![error](./time-track/13.png)

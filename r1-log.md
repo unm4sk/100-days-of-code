@@ -132,3 +132,15 @@ Despite of headaches and no Twitter bot (*hopefully*, I'll be able to create it 
 Tomorrow is school, so I will probably spend less time on coding :cry:
 
 Time track: ![error](./time-track/13.png)
+
+## R1D14
+Began coding at evening, as usual these days. Don't know why, but in last couple of days I was undermotivated.
+
+For example, today I completed `Web Scraping` section but wasn't exited almost at all. However, I *improved a project and added some features*. Also, tried to create a project related to this field, but it was unsuccessful...
+
+**BUT**: 
+Since I was really exited of creating my own website, I am now very interested in doing it and don't feel undermotivated. 
+I am *really, really* want to do it!
+And some good news are that I *almost* finished a course! 
+
+Time track: ![error](./time-track/14.png)

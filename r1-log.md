@@ -133,7 +133,7 @@ Tomorrow is school, so I will probably spend less time on coding :cry:
 
 Time track: ![error](./time-track/13.png)
 
-## R1D14
+### R1D14
 Began coding at evening, as usual these days. Don't know why, but in last couple of days I was undermotivated.
 
 For example, today I completed `Web Scraping` section but wasn't exited almost at all. However, I *improved a project and added some features*. Also, tried to create a project related to this field, but it was unsuccessful...
@@ -144,3 +144,14 @@ I am *really, really* want to do it!
 And some good news are that I *almost* finished a course! 
 
 Time track: ![error](./time-track/14.png)
+
+### R1D15
+**IT IS SO EXCITING!!!**
+I feel *so* motivated about creatign my own site with portfolio! It's not just a cool thing, it is also a very applicable one!
+You wouldn't believe me but I was just sitting in front of my computer widely smiling because of happiness.
+
+I realize that I've gone through a bunch of problems, difficulties; sometimes I felt not interested in a particular topic but my **persistence** is a main thing that took me through this...
+
+Well, the course hasn't ended. I still have to do learn some cool things, such as `Automation Testing` & `ML + Data Science` (I hope I'll get good explanations from a teacher!)
+
+Time track: ![error](./time-track/15.png)

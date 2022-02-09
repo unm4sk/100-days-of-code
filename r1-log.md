@@ -155,3 +155,10 @@ I realize that I've gone through a bunch of problems, difficulties; sometimes I 
 Well, the course hasn't ended. I still have to do learn some cool things, such as `Automation Testing` & `ML + Data Science` (I hope I'll get good explanations from a teacher!)
 
 Time track: ![error](./time-track/15.png)
+
+### R1D16
+Started creating my portfolio website, which is by now is far from perfect, but after some time it'll be just **fine**!
+
+I am pretty excited about this section and tomorrow will try my best to finish it!
+
+Time track: ![error](./time-track/16.png)

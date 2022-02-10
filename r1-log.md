@@ -162,3 +162,13 @@ Started creating my portfolio website, which is by now is far from perfect, but 
 I am pretty excited about this section and tomorrow will try my best to finish it!
 
 Time track: ![error](./time-track/16.png)
+
+### R1D17
+Continued working on my portfolio website. 
+Created a simple database and learned about redirection and request methods.
+
+Hopefully, tomorrow I'll finish this section and will start an `Automation_Testing` section!
+
+P.S You may have noticed that total time spent on coding decreased... That's because I'm trying to organize my life in different areas, without concentrating exclusively on coding!
+
+Time track: ![error](./time-track/17.png)

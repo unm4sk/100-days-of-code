@@ -172,3 +172,14 @@ Hopefully, tomorrow I'll finish this section and will start an `Automation_Testi
 P.S You may have noticed that total time spent on coding decreased... That's because I'm trying to organize my life in different areas, without concentrating exclusively on coding!
 
 Time track: ![error](./time-track/17.png)
+
+
+### R1D18
+Uploaded my portfolio website on `Python Anywhere`. Now I can share it with my friends, hahaha. *BUT* It's in a ***very early stage*** of development! 
+
+Tomorrow will try to upload some of my projects on GitHub so I can share them on my website.
+
+P.S. It may look as I coded for a too small amount of time. **But!** it is primarily because of the work done outside of VS Code :) Tomorrow this number will increase!
+
+Time track: ![error](./time-track/18_1.png)
+            ![error](./time-track/18_2.png)

@@ -183,3 +183,12 @@ P.S. It may look as I coded for a too small amount of time. **But!** it is prima
 
 Time track: ![error](./time-track/18_1.png)
             ![error](./time-track/18_2.png)
+
+
+### R1D19
+***Finished my website!*** **Hoorayy!!**
+It's finally happened! I created my website! Today I added my projects, made website more eye-appealing, and fixed some small things! 
+
+Also started an `Automation Testing` section, which involves using Selenium to test websites. Actually, I've used it for one of my early projects (still a *cool* one!) Unfortunately, I am unavailable to use it as in a course simply because of an unavailability of a website... 😭
+
+Time track: ![error](./time-track/19.png)

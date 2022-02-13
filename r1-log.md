@@ -192,3 +192,10 @@ It's finally happened! I created my website! Today I added my projects, made web
 Also started an `Automation Testing` section, which involves using Selenium to test websites. Actually, I've used it for one of my early projects (still a *cool* one!) Unfortunately, I am unavailable to use it as in a course simply because of an unavailability of a website... 😭
 
 Time track: ![error](./time-track/19.png)
+
+### R1D20
+Ooh, it looks like I've completed **20%** of this challenge!
+Today I finished an `Automation Testing` section from the course. I actually have used it before, so no *epic* opening for me here! 
+Started watching a section about a Twitter bot that I can't implement😭 Also, spent some time creating a very simple yet cool **quiz script**. I coded almost without errors, liked that *flow* moment!
+
+Time track: ![error](./time-track/20.png)

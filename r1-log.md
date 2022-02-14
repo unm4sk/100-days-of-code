@@ -199,3 +199,11 @@ Today I finished an `Automation Testing` section from the course. I actually hav
 Started watching a section about a Twitter bot that I can't implement😭 Also, spent some time creating a very simple yet cool **quiz script**. I coded almost without errors, liked that *flow* moment!
 
 Time track: ![error](./time-track/20.png)
+
+### R1D21
+Finished watching a section about creating a Twitter Bot. Also, started watching a `ML + Data Science` section. Only watched videos which provided theory (interesting facts were also included!). Installed `Anaconda` and configured it. I am on my *way* of finishing this course!!!
+Not that I dislike it, not at all. It's just been quite a long journey, and I want to try something new, such as **Flutter**, haha. ***BUT*** I'm pretty excited about ML and Data Science, so will try my best at it!
+
+Time track: ![error](./time-track/21.png)
+
+Why this small amount of time? Remember, I just took note on 1 video, and listened closely to others!

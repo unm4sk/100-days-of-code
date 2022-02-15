@@ -207,3 +207,9 @@ Not that I dislike it, not at all. It's just been quite a long journey, and I wa
 Time track: ![error](./time-track/21.png)
 
 Why this small amount of time? Remember, I just took note on 1 video, and listened closely to others!
+
+### R1D22
+Heey! Well, today I focused primarily on Data Science and Machine Learning. Watched 6 videos and coded along :) It was pretty exciting, liked the simplicity yet usefulness of explanations given by the author of the course!!! 
+Maybe in future I'll complete some excercises! (If I'll have some free time😄)
+
+No time tracking for today because I was working in `Jupyter Notebook`. I am sure that I was coding for more than an hour!!! It's actually a really *cool* editor!

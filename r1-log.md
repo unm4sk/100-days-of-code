@@ -213,3 +213,13 @@ Heey! Well, today I focused primarily on Data Science and Machine Learning. Watc
 Maybe in future I'll complete some excercises! (If I'll have some free time😄)
 
 No time tracking for today because I was working in `Jupyter Notebook`. I am sure that I was coding for more than an hour!!! It's actually a really *cool* editor!
+
+### R1D23
+I. FINISHED. THE. COURSE!!! The day I thought will never come, finally came. It's been a very long journey, I had a lot of winnings and the same amount (if not more) failures and difficulties. It took a lot of time and lots of mistakes to learn how to code in Python. I'm not an expert so far, but I do know how to do lots and lots of things.
+
+I would lie if I'd say that this was easy. NO, it wasn't. Yet, `per aspera ad astra`!!! For all of you, who just starting up, don't expect that a process of learning a language/framework will be very easy. Sometimes it will, sometimes not. This process requires a lot of time and dedication. You surely need to know ***why are you doing this and what the outcomes are?*** My path as a programmer did *not* finish, till the day 100 I'll try my best to finish a Flutter course and create a project I dreamt of! 
+
+P.S. I won't be coding due to some circmustances because of which I can't have my PC with me. See ya!
+
+Time track: ![error](./time-track/23.png)
+Also, most of today's coding I was doing in `Jupyter Notebook`, so no time for this one is included :cry:

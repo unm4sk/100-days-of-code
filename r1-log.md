@@ -223,3 +223,9 @@ P.S. I won't be coding due to some circmustances because of which I can't have m
 
 Time track: ![error](./time-track/23.png)
 Also, most of today's coding I was doing in `Jupyter Notebook`, so no time for this one is included :cry:
+
+### R1D24
+Now it's time to learn flutter! Yep, after long time I decided to get back to it and started learning it from scratch. Watched some videos, mostly theoretical ones. Also, solved some issues.
+For tomorrow: understand how to create a main.dart from scratch!
+
+Time track: ![error](./time-track/24.png)

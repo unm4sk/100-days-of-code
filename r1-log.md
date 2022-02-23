@@ -229,3 +229,7 @@ Now it's time to learn flutter! Yep, after long time I decided to get back to it
 For tomorrow: understand how to create a main.dart from scratch!
 
 Time track: ![error](./time-track/24.png)
+
+### R1D25
+Worked primarly on Dart fundamentals. For that I used `DartPad`, so now time track for today! :cry:
+Nothing else to tell, really. 

@@ -231,5 +231,5 @@ For tomorrow: understand how to create a main.dart from scratch!
 Time track: ![error](./time-track/24.png)
 
 ### R1D25
-Worked primarly on Dart fundamentals. For that I used `DartPad`, so now time track for today! :cry:
+Worked primarily on Dart fundamentals. For that I used `DartPad`, so no time track for today! :cry:
 Nothing else to tell, really. 

@@ -233,3 +233,8 @@ Time track: ![error](./time-track/24.png)
 ### R1D25
 Worked primarily on Dart fundamentals. For that I used `DartPad`, so no time track for today! :cry:
 Nothing else to tell, really. 
+
+### R1D26
+Learning how to create widget trees. Main focus on understanding how Dart works. Understood about how to create widgets + learned some new of them
+
+Time track: ![error](./time-track/26.png)
